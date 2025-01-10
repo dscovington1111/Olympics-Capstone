@@ -45,3 +45,6 @@ force for the team's overall success.
 
 3. 120 Years of Olympic History: Athletes and Results 
     - <https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.csv>
+
+# Canva Presentation
+<https://www.canva.com/design/DAGZfDmxKXs/qchJ4ydzUhHc5bhcx5m--Q/edit?utm_content=DAGZfDmxKXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
