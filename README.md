@@ -48,3 +48,6 @@ force for the team's overall success.
 
 # Canva Presentation
 <https://www.canva.com/design/DAGZfDmxKXs/qchJ4ydzUhHc5bhcx5m--Q/edit?utm_content=DAGZfDmxKXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+
+# Dashboard 
+<iframe title="gdp_life_exp" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiN2RhMWNlMzgtZjM5ZC00NTYwLWJmNzQtM2NkNmNjNmQyYTNjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>
